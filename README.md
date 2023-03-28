@@ -4,9 +4,9 @@ Data Structure Labs &amp; Exercises
 
 ## Labs’ Description
 
-- Lab1: Students Health System
-- Lab2: Address List
-- Lab3: Huffman Tree
+- [x] Lab1: Students Health System
+- [x] Lab2: Address List
+- [x] Lab3: Huffman Tree
 
 ### Environment
 
