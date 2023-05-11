@@ -2,7 +2,7 @@
 
 Data Structure Labs &amp; Exercises
 
-## Labs’ Description
+## Labs
 
 - [x] Lab1: Students Health System
 - [x] Lab2: Address List
@@ -14,10 +14,12 @@ Qt Creator 4.14.2 based on Qt 5.15.2
 
 MinGW 8.1.0 64bit
 
+
+
 ## Exercises
 
 - Including 12 exercises
 
 ### Environment
 
-Visual Studio 2019
+Visual Studio 2019 Community
